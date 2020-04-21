@@ -1,6 +1,6 @@
 ---
-title: "Security for your Company"
-subtitle: Teleconference Solutions, VPNs, Custom Infrastructure, Compliance
+title: "Cyber Security You Can Afford"
+subtitle: High Quality Security For Your Company - Teleconference Solutions, VPNs, Custom Infrastructure, Compliance
 image: /img/homesec.jpg
 blurb:
     heading: Why WoodFrog Security?
