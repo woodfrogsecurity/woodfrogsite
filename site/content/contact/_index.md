@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/wood.jpg"
+logo: "/img/woodfrog.jpg"
 contact_entries:
   - heading: Location
     text: "3153 Lynn Avenue, South San Francisco, California 94080"
